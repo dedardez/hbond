@@ -37,7 +37,7 @@ Line            Meaning
 
 *Special Character*
 
-<Note: If the symbol 'R' appears in line 55-57, it means that the halogen interacting with a proteinacious
+<Note: If the symbol 'R' appears in line 55-57, it means that the halogen is interacting with a proteinacious
        benzene ring.>
 
 
