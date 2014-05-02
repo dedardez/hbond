@@ -1,5 +1,4 @@
 
-
 #! /usr/bin/env python
 
 __author__ = "Suman Sirimulla"
@@ -48,7 +47,7 @@ header='{:4s} {:6s} {:3s} {:3s} {:2s} {:6s} {:4s} {:3s} {:3s} {:1s} {:6s} {:3s} 
                                                      'Ty ','|','Pro#   ',
                                                      'Atm','Res',
                                                      'R# ','Ty',
-                                                     'C-X--D','  Dis ','C-X--'+chr(227))
+                                                     'C-X--D','  Dis ','C-X--pi')
 rawoutfile.write(header+ '\n')
 
 
